@@ -3,7 +3,11 @@ import Card from './Card';
 // import {robots} from './robots';
 
 const CardList = ({robots}) => {
-
+    // if(true){
+    //     throw new Error('noo');
+    // }
+    
+    
     return (
         <div className='tc'>
             {
